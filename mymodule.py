@@ -23,3 +23,4 @@ if __name__ == "__main__":
            
     location=postal_lookup("B323PP") 
     print(location)
+    print()
